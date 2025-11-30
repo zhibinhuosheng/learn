@@ -1,5 +1,5 @@
-#ifndef _MAIN_H
-#define _MAIN_H 
+#ifndef _OP_H
+#define _OP_H 
 
 #include <iostream>
 
